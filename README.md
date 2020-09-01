@@ -1,6 +1,11 @@
-# post_api
+# Flutter_POST_API
 
-A new Flutter application.
+[Flutter 공식 문서](https://flutter-ko.dev/docs/cookbook/networking/fetch-data)를 참고해서 간단한 POST_API 프로젝트를 제작해 보았습니다.
+
+수정하지 않고 바로 빌드해서 실행해보면 아래와 같은 화면이 나옵니다.
+
+![image](https://user-images.githubusercontent.com/22024308/91812486-26374180-ec6c-11ea-82f0-51bc57d7f923.png)
+
 
 ## Getting Started
 
